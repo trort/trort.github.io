@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+trort:
+  name: trort
+  picture: /images/bio-photo-2.jpg
+  twitter: "@trort"
+  links:
+    - title: Twitter
+      url: https://twitter.com/trort
+
