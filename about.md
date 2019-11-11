@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Projects
+title: "Who?"
 ---
-## {{ page.title }}
-Some interesting projects I did before.
+Some interesting about me?!
