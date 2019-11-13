@@ -20,7 +20,7 @@ title: "Home Sweet Home"
 description: "Something, something, or something."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://trort.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/site_1.png" # path of site logo, e.g. "/images/logo.png"
+logo: "/images/site_2.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%Y-%m-%d"
 read_time: false # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -98,6 +98,15 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/trort
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/trort
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# Copyright info
+copyright: "This site is created by _me_ with <3. Powered by [Jekyll](https://jekyllrb.com/) & [So Simple](https://github.com/mmistakes/so-simple-theme)."

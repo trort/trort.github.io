@@ -1,5 +1,6 @@
 ---
 title: "You know it if you already knew it: reviving my github.io page"
+layout: post
 author: trort
 excerpt_separator: "<!--more-->"
 categories:
@@ -28,6 +29,8 @@ But for using on github, all you need to copy is the `_config.yml` file in eithe
 (Those are the examples for *using* this theme, while the repo itself is the source code *defining* theme.)
 Some additional settings are through files in the `_data` folder.
 And all other files are pretty much examples for you to play with.
+Btw: at the end of document in [Global Changes](https://github.com/mmistakes/so-simple-theme#global-changes), it says
+> "Fork method" has been deprecated in favor of installing/upgrading the theme via a gem or remote theme.
 
 # Test on a local host
 To test the theme and all pages on localhost, [here](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) is a guide from GitHub.
