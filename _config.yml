@@ -1,9 +1,8 @@
-title: My Personal Blog
-author:
-  name: User
-  email: your-email@example.com
+title: trort's personal blog
+author: trort
+email: xxx@xxx.com
 description: >-
-  A personal blog powered by Jekyll and the Minima theme.
+  A personal tech blog powered by Jekyll and the Minima theme.
 baseurl: ""
 url: "https://trort.github.io"
 
